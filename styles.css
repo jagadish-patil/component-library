@@ -90,7 +90,7 @@ hr {
 }
 
 .hero .hero-heading {
-    padding-top: 1rem;
+    padding-top: 5rem;
     color: var(--dark-gray);
     text-align: center;
 }
@@ -133,3 +133,7 @@ hr {
     padding-inline-start: 0px;
 }
 
+/** spaces **/
+.margin-md {
+    margin: 2rem;
+}
